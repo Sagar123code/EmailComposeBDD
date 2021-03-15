@@ -49,6 +49,7 @@ public class ComposeFunctionObjects {
 
 	public WebElement webElement(By element) {
 		return driver.findElement(element);
+		 
 		
 	}
 	
